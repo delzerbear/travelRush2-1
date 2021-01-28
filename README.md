@@ -38,13 +38,13 @@ This app is designed to assist rushed travelers with unplanned last-minute trips
 
 ### Contact us about traveRush
 * mishelt13@gmail.com
-* emma.delzer@gmail.com
+* maxwell.delzer@gmail.com
 * geoffrey.xwin@gmail.com
 * maafadina@gmail.com
 
 ### Contributors
 * Michelle (Team Leader)
-* Emma
+* Max
 * Modupe 
 * Geo
 * Jesus
